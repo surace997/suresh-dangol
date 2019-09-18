@@ -1,6 +1,6 @@
 #suresh dangol
 
-phrase=input("Enter any phares")
+phrase=input("Enter any phrase")
 for characters in phrase:
     print(ord(characters))
 
